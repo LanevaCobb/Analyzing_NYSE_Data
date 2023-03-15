@@ -1,6 +1,9 @@
 # Analyzing_NYSE_Data
 An Excel presentation of Data Analysis using NYSE Data
 
+![image](https://user-images.githubusercontent.com/28368951/225296594-f5ef3235-7823-4dee-b2cf-7f8832e512c1.png)
+
+
 This project includes:
 
 - A presentation file that include a slide with:
