@@ -16,7 +16,7 @@ This project includes:
   - Dataset
   - Summary statistics
   - Profit and Loss statement dashboard which has an interactive tinker symbol dropdown. The stats are over a period of 4 years.
-  - Forecast model for three scenarios for Ebay based on the period of 4 year time period.Statistics includes Revenue, Gross Profit, Total Operating Expenses, etc was       forecasted for the next 2 years.
+  - Forecast model for three scenarios for Ebay based on the period of 4 year time period. Statistics such as Revenue, Gross Profit, Total Operating Expenses, etc was       forecasted for the next 2 years.
   
   File link: [Projectdata_NYSE-.xlsx](https://github.com/LanevaCobb/Analyzing_NYSE_Data/files/10978939/Projectdata_NYSE-.xlsx)
   
